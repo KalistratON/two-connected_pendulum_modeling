@@ -3,4 +3,4 @@
 Использована библиотека Qt.
 
 # Установка
-<i>open project via Qt5+</i>
+<i>open project via Qt6+</i>
