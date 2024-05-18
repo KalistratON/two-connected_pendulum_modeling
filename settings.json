@@ -1,0 +1,22 @@
+{
+"title":"Task1",
+"segment":[
+{
+	"lenght":2,
+	"mass":4,
+	"theta":90,
+	"omega":2
+},
+{
+	"lenght":4,
+	"mass": 2,
+	"theta":90,
+	"omega":-1
+}
+],
+"durance":40,
+"solver":{
+	"type":"runge_kutta",
+	"step":0.00001
+}	
+}

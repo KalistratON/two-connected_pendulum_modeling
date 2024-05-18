@@ -1,0 +1,36 @@
+* {
+        font-family: Georgia, serif;
+}
+
+QTextEdit {
+        background-color : darkgrey;
+        color : black;
+        padding : 2px;
+        border : 2px solid black;
+        border-radius : 8px;
+}
+
+MainWindow {
+    background-color : darkgrey;
+}
+
+QGraphicsView {
+    background-color : grey;
+    color : black;
+    border : 2px solid black;
+    border-radius : 8px;
+}
+
+QPushButton {
+        color : white;
+        background-color : gray;
+        border : 1px solid black;
+        border-radius : 4px;
+}
+
+QTimeEdit {
+        color : black;
+        background-color : white;
+        border : 1px solid black;
+        border-radius : 4px;
+}
